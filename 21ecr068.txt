@@ -1,1 +1,3 @@
-21ecr068
+RollNo:21ecr068
+Name:Gunaranjan
+Dept:ECE
